@@ -1,0 +1,20 @@
+{
+  "name": "chain-link-fence",
+  "description": "A generative chain-link fence",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --emptyOutDir",
+    "preview": "vite preview",
+    "host": "vite --host"
+  },
+  "devDependencies": {
+    "sass": "^1.64.2",
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "p5": "^1.10.0"
+  }
+}
