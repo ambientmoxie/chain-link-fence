@@ -1,5 +1,6 @@
 export default {
   root: "src",
+  base: "/projects/chain-link-fence",
   build: {
     outDir: "../dist",
     chunkSizeWarningLimit: 1600,
